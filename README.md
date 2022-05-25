@@ -28,6 +28,8 @@ Password: 123456
 https://drive.google.com/drive/folders/1baCFnaKCIoQ5c1VhOOxKRWTpSrBuV3-9
 <br>
 # Setup Instructions
+Create your own cloudinary API key and setup MongoDB atlas and provide the credential<br>
+at dotenv file
 Install node modules in Backend as well as in Client using command: npm install 
 <br>
 After installing node modules, start backend with command: node server.js <br>
